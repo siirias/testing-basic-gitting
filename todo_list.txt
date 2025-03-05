@@ -1,0 +1,5 @@
+- Learn basic Git commands
+- Create a new repository
+- Make some changes and commit them
+- Push changes to GitHub
+- Collaborate with others (if time permits)
